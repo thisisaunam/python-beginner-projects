@@ -31,4 +31,4 @@ this project focuses on:
 * conditional statements
 * basic program logic
 
-this is the first version and will be improved over time
+this is the first version and will be improved over time.
