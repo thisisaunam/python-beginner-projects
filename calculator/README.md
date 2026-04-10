@@ -6,7 +6,10 @@ a simple command-line calculator built using python
 
 ## features
 
-* **version1:** (python learnt till 11.04.26) supports basic operations: +, -, *, / and prevents division by zero to avoid ZeroDevisionError.
+version 1 (as of 11.04.26):
+
+* supports basic operations: +, -, *, /
+* prevents division by zero
 
 ---
 
@@ -22,4 +25,10 @@ python calculator.py
 
 ## notes
 
-this project focuses on functions, user input handling, and basic program structure.
+this project focuses on:
+
+* user input handling
+* conditional statements
+* basic program logic
+
+this is the first version and will be improved over time
