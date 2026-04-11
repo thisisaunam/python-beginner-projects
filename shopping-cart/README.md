@@ -1,6 +1,6 @@
 # shopping cart
 
-a simple command-line program that calculates the total cost of an item based on user input
+a command-line python program that simulates a basic shopping cart and billing system.
 
 ---
 
@@ -8,9 +8,17 @@ a simple command-line program that calculates the total cost of an item based on
 
 version 1:
 
-* takes item name as input
+* takes a single item as input
 * accepts price and quantity
 * calculates total cost using basic arithmetic
+
+version 2:
+
+* supports multiple items using loops
+* stores item details using lists
+* calculates individual totals per item
+* calculates final bill for all items
+* displays formatted receipt output
 
 ---
 
@@ -18,19 +26,34 @@ version 1:
 
 run the file using:
 
-```id="run123"
-python shopping_cart.py
+```id="run456"
+python shopping_cart_v2.py
 ```
+
+---
+
+## project structure
+
+* shopping_cart_v1.py → basic single-item version
+* shopping_cart_v2.py → multi-item cart system
 
 ---
 
 ## notes
 
-this project focuses on:
+this project is part of my python learning journey.
 
-* user input
-* data types (string, float, integer)
-* basic arithmetic operations
-* formatted output using f-strings
+it focuses on:
 
-this is an early-stage project and will be expanded with more features over time.
+* user input handling
+* loops and iteration
+* lists and indexing
+* arithmetic operations
+* formatted output
+
+future improvements may include:
+
+* removing items from cart
+* updating quantities
+* using dictionaries instead of lists
+* menu-based system interface
