@@ -27,7 +27,7 @@ version 2:
 run the file using:
 
 ```id="run456"
-python shopping_cart_v2.py
+python cart_version2.py
 ```
 
 ---
