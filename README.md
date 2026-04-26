@@ -1,4 +1,4 @@
-# 𓂃⋆.˚ Hello, this is Aunam.
+# 𓂃⋆.˚ Hello, this is Aunam!
 
 Aspiring developer learning python through consistent, project-based practice.
 
