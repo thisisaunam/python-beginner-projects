@@ -1,18 +1,18 @@
-# shopping cart
+# Shopping cart
 
-a command-line python program that simulates a basic shopping cart and billing system.
+A command-line python program that simulates a basic shopping cart and billing system.
 
 ---
 
-## features
+## Features
 
-version 1:
+Version 1:
 
 * takes a single item as input
 * accepts price and quantity
 * calculates total cost using basic arithmetic
 
-version 2:
+Version 2:
 
 * supports multiple items using loops
 * stores item details using lists
@@ -22,9 +22,9 @@ version 2:
 
 ---
 
-## how to run
+## How to run
 
-run the file using:
+Run the file using:
 
 ```id="run456"
 python shopping_cart_v2.py
@@ -32,18 +32,18 @@ python shopping_cart_v2.py
 
 ---
 
-## project structure
+## Project structure
 
 * shopping_cart_v1.py → basic single-item version
 * shopping_cart_v2.py → multi-item cart system
 
 ---
 
-## notes
+## Notes
 
-this project is part of my python learning journey.
+This project is part of my python learning journey.
 
-it focuses on:
+It focuses on:
 
 * user input handling
 * loops and iteration
@@ -51,7 +51,7 @@ it focuses on:
 * arithmetic operations
 * formatted output
 
-future improvements may include:
+Future improvements may include:
 
 * removing items from cart
 * updating quantities
